@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lila.Holdings</title>
+  
+  <subtitle>Professional Staking Validator</subtitle>
+  <link href="https://lila.eight9.net/atom.xml" rel="self"/>
+  
+  <link href="https://lila.eight9.net/"/>
+  <updated>2021-12-07T00:16:42.144Z</updated>
+  <id>https://lila.eight9.net/</id>
+  
+  <author>
+    <name>Lila Holdings</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Onomy Test Network</title>
+    <link href="https://lila.eight9.net/onomy/"/>
+    <id>https://lila.eight9.net/onomy/</id>
+    <published>2021-12-07T00:16:42.138Z</published>
+    <updated>2021-12-07T00:16:42.144Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Onomy-Test-Network-2-Coming-Soon"><a href="#Onomy-Test-Network-2-Coming-Soon" class="headerlink" title="Onomy Test Network #2 Coming Soon"></a>Onomy Test Network #2 Coming Soon</h3><p>We have been following the progress of the Onomy Protocol closely. Although up for a short time, we have contributed to the successful first Test Net and are geared up and ready to run a Validator for the 2nd Onomy Test Net. </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Onomy-Test-Network-2-Coming-Soon&quot;&gt;&lt;a href=&quot;#Onomy-Test-Network-2-Coming-Soon&quot; class=&quot;headerlink&quot; title=&quot;Onomy Test Network #2 Coming</summary>
+      
+    
+    
+    
+    
+    <category term="staking" scheme="https://lila.eight9.net/tags/staking/"/>
+    
+    <category term="validation" scheme="https://lila.eight9.net/tags/validation/"/>
+    
+    <category term="onomy" scheme="https://lila.eight9.net/tags/onomy/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>About</title>
+    <link href="https://lila.eight9.net/about/"/>
+    <id>https://lila.eight9.net/about/</id>
+    <published>2021-12-07T00:16:39.643Z</published>
+    <updated>2021-12-07T00:16:39.643Z</updated>
+    
+    <content type="html"><![CDATA[<p>Lila Holdings is dedicated to using our extensive technical experience to contribute to the security of Proof of Stake networks. By staking our own funds, we are incentivized in keeping our validators running 24/7. In doing so, all of our delegators benefit right along with us.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Lila Holdings is dedicated to using our extensive technical experience to contribute to the security of Proof of Stake networks. By staki</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
