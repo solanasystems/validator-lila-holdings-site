@@ -1,5 +1,6 @@
 ---
 title: Onomy Test Network
+date: 2021-12-03 08:00:00
 tags:
  - staking
  - validation

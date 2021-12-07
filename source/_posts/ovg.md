@@ -1,5 +1,6 @@
 ---
 title: Onomy Validator Guild
+date: 2021-12-07 08:00:00
 tags:
  - staking
  - validation

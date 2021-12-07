@@ -4,14 +4,14 @@ navbar-links:
     Onomy Validator Guild: /ovg
 
 
-avatar: /imgs/lh-logo.png
-favicon: /imgs/lh-logo.png
+avatar: /images/lh-logo.png
+favicon: /images/lh-logo.png
 
 header:
     title: "Lila.Holdings"
     motto: Crypto. Validation. Staking.
     bigimgs:
-        - src: /imgs/galaxy.jpg
+        - src: /images/galaxy.jpg
           desc:
 
 rss: /atom.xml
