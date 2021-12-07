@@ -6,7 +6,7 @@
   <link href="https://lila.eight9.net/atom.xml" rel="self"/>
   
   <link href="https://lila.eight9.net/"/>
-  <updated>2021-12-07T19:24:32.727Z</updated>
+  <updated>2021-12-07T20:11:46.342Z</updated>
   <id>https://lila.eight9.net/</id>
   
   <author>
@@ -20,8 +20,8 @@
     <title>Onomy Validator Guild</title>
     <link href="https://lila.eight9.net/ovg/"/>
     <id>https://lila.eight9.net/ovg/</id>
-    <published>2021-12-07T19:21:24.542Z</published>
-    <updated>2021-12-07T19:24:32.727Z</updated>
+    <published>2021-12-07T16:00:00.000Z</published>
+    <updated>2021-12-07T20:11:46.342Z</updated>
     
     <content type="html"><![CDATA[<p>Lila.Holdings is a founding member of Onomy Validator Guild. OVG is a group of validators that collaborate and share their years of knowledge and technical experience to help ensure maximum uptime, security, and industry practices. This provides us with the benefits of collaborating while still maintaining network decentralization.</p>]]></content>
     
@@ -46,8 +46,8 @@
     <title>Onomy Test Network</title>
     <link href="https://lila.eight9.net/onomy/"/>
     <id>https://lila.eight9.net/onomy/</id>
-    <published>2021-12-07T19:21:24.541Z</published>
-    <updated>2021-12-07T19:21:24.542Z</updated>
+    <published>2021-12-03T16:00:00.000Z</published>
+    <updated>2021-12-07T20:11:41.574Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Onomy-Test-Network-2-Coming-Soon"><a href="#Onomy-Test-Network-2-Coming-Soon" class="headerlink" title="Onomy Test Network #2 Coming Soon"></a>Onomy Test Network #2 Coming Soon</h3><p>We have been following the progress of the Onomy Protocol closely. Although up for a short time, we have contributed to the successful first Test Net and are geared up and ready to run a Validator for the 2nd Onomy Test Net. </p>]]></content>
     
@@ -72,8 +72,8 @@
     <title>About</title>
     <link href="https://lila.eight9.net/about/"/>
     <id>https://lila.eight9.net/about/</id>
-    <published>2021-12-07T19:21:24.541Z</published>
-    <updated>2021-12-07T19:21:24.541Z</updated>
+    <published>2021-12-01T16:00:00.000Z</published>
+    <updated>2021-12-07T20:11:09.399Z</updated>
     
     <content type="html"><![CDATA[<p>Lila Holdings is dedicated to using our extensive technical experience to contribute to the security of Proof of Stake networks. By staking our own funds, we are incentivized in keeping our validators running 24/7. In doing so, all of our delegators benefit right along with us.</p>]]></content>
     
