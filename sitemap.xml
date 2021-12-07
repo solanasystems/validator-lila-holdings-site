@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://lila.eight9.net/ovg/</loc>
+    
+    <lastmod>2021-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://lila.eight9.net/onomy/</loc>
     
     <lastmod>2021-12-07</lastmod>

@@ -6,7 +6,7 @@
   <link href="https://lila.eight9.net/atom.xml" rel="self"/>
   
   <link href="https://lila.eight9.net/"/>
-  <updated>2021-12-07T00:16:42.144Z</updated>
+  <updated>2021-12-07T19:14:33.056Z</updated>
   <id>https://lila.eight9.net/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Onomy Validator Guild</title>
+    <link href="https://lila.eight9.net/ovg/"/>
+    <id>https://lila.eight9.net/ovg/</id>
+    <published>2021-12-07T17:15:22.321Z</published>
+    <updated>2021-12-07T19:14:33.056Z</updated>
+    
+    <content type="html"><![CDATA[<p>Lila.Holdings is a founding member of Onomy Validator Guild. OVG is a group of validators that collaborate and share their years of knowledge and technical experience to help ensure maximum uptime, security, and industry practices. This provides us with the benefits of collaborating while still maintaining network decentralization.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Lila.Holdings is a founding member of Onomy Validator Guild. OVG is a group of validators that collaborate and share their years of knowl</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Onomy Test Network</title>
