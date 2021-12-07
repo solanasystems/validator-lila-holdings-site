@@ -104,5 +104,5 @@ theme: lila
 deploy:
   type: git
   repo: https://github.com/twenty7/lila-holdings-site.git # Your repo link goes here
-  branch: master
+  branch: published
 

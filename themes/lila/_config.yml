@@ -1,7 +1,8 @@
 navbar-links:
-    Archive: /archives
-    Github: https://github.com/twoyao/beautiful-hexo
     About: /about/
+    Archive: /archives
+    Onomy Validator Guild: /ovg
+
 
 avatar: /imgs/lh-logo.png
 favicon: /imgs/lh-logo.png

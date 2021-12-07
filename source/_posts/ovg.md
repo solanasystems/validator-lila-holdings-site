@@ -1,0 +1,4 @@
+---
+title: Onomy Validator Guild
+---
+Lila.Holdings is a founding member of Onomy Validator Guild. OVG is a group of validators that collaborate and share their years of knowledge and technical experience to help ensure maximum uptime, security, and industry practices. This provides us with the benefits of collaborating while still maintaining network decentralization.
