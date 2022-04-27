@@ -5,8 +5,9 @@ navbar-links:
     Onomy Validator Alliance: /ova
 
 
-avatar: /images/lh-logo.png
-favicon: /images/lh-logo.png
+avatar: /images/lila-logo.svg
+favicon: /images/lila-logo.svg
+brand: /images/lila-logo-name.svg
 
 header:
     title: "Lila.Holdings"
