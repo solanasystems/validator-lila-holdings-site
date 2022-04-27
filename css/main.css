@@ -293,6 +293,9 @@ footer .theme-by {
 
 .post-preview a {
   text-decoration: none;
+  color: #337ab7;
+}
+.post-preview a .post-title{
   color: #404040;
 }
 
@@ -584,4 +587,47 @@ figure.highlight>table tr {
 
 figure.highlight>table .gutter {
     display:none;
+}
+
+
+.overnav {
+  background-color: #555;
+  margin-top: -100px;
+}
+.chainbar {
+  width: 100%;
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  text-align: center;
+  margin-top: 50px;
+}
+.chainbar .chain {
+  display: inline-block;
+}
+.chainbar .chain a {
+  display: block;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+.subnav-bar {
+  text-align: center;
+}
+.subnav-bar .item {
+  display: inline-block;
+}
+.subnav-bar .item a.btn {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+}
+
+.network-logo {
+  margin: 10px;
+  padding: 10px;
+  max-width: 300px;
+}
+.network-logo.dark {
+  background-color: #AAA;
 }

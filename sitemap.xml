@@ -2,7 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lila.eight9.net/ova/</loc>
+    <loc>https://lila.eight9.net/networks.html</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/investigating-iagon/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/onomy-testnet2/</loc>
+    
+    <lastmod>2022-04-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/ova.html</loc>
+    
+    <lastmod>2022-04-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/about/</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -13,16 +49,16 @@
   <url>
     <loc>https://lila.eight9.net/onomy/</loc>
     
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/about/</loc>
+    <loc>https://lila.eight9.net/about.html</loc>
     
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +67,7 @@
 
   <url>
     <loc>https://lila.eight9.net/</loc>
-    <lastmod>2022-04-26</lastmod>
+    <lastmod>2022-04-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,21 +75,42 @@
   
   <url>
     <loc>https://lila.eight9.net/tags/staking/</loc>
-    <lastmod>2022-04-26</lastmod>
+    <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lila.eight9.net/tags/validation/</loc>
-    <lastmod>2022-04-26</lastmod>
+    <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lila.eight9.net/tags/onomy/</loc>
-    <lastmod>2022-04-26</lastmod>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/tags/testnet/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/tags/iagon/</loc>
+    <lastmod>2022-04-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://lila.eight9.net/tags/storage/</loc>
+    <lastmod>2022-04-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>

@@ -6,7 +6,7 @@
   <link href="https://lila.eight9.net/atom.xml" rel="self"/>
   
   <link href="https://lila.eight9.net/"/>
-  <updated>2022-04-26T21:05:52.246Z</updated>
+  <updated>2022-04-27T00:19:50.602Z</updated>
   <id>https://lila.eight9.net/</id>
   
   <author>
@@ -17,18 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Onomy Validator Alliance</title>
-    <link href="https://lila.eight9.net/ova/"/>
-    <id>https://lila.eight9.net/ova/</id>
-    <published>2021-12-07T16:00:00.000Z</published>
-    <updated>2022-04-26T21:05:52.246Z</updated>
+    <title>Iagon</title>
+    <link href="https://lila.eight9.net/investigating-iagon/"/>
+    <id>https://lila.eight9.net/investigating-iagon/</id>
+    <published>2022-04-25T15:00:00.000Z</published>
+    <updated>2022-04-27T00:19:50.602Z</updated>
     
-    <content type="html"><![CDATA[<p>Lila.Holdings is a founding member of the Onomy Validator Alliance. OVA is a group of validators that collaborate and share their years of knowledge and technical experience to help ensure maximum uptime, security, and industry practices. This provides us with the benefits of collaborating while still maintaining network decentralization.</p>]]></content>
+    <content type="html"><![CDATA[<p>We have begun discussions with the team at Iagon. Iagon is creating a decentralised storage chain providing a new generation of encrypted cloud storage. We are excited about working with and becoming a resource partner for the Iagon network.</p><p><a href="https://iagon.com/">Learn more about Iagon</a></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Lila.Holdings is a founding member of the Onomy Validator Alliance. OVA is a group of validators that collaborate and share their years o</summary>
+    <summary type="html">&lt;p&gt;We have begun discussions with the team at Iagon. Iagon is creating a decentralised storage chain providing a new generation of encrypted</summary>
+      
+    
+    
+    
+    
+    <category term="iagon" scheme="https://lila.eight9.net/tags/iagon/"/>
+    
+    <category term="storage" scheme="https://lila.eight9.net/tags/storage/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Onomy TestNet Validator Online</title>
+    <link href="https://lila.eight9.net/onomy-testnet2/"/>
+    <id>https://lila.eight9.net/onomy-testnet2/</id>
+    <published>2022-01-20T16:00:00.000Z</published>
+    <updated>2022-04-27T00:13:05.887Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="Validator-Online"><a href="#Validator-Online" class="headerlink" title="Validator Online"></a>Validator Online</h3><p>Our Validator is Online for the Second Onomy Testnet. We are looking forward to continue helping build the strength of the Onomy network.<br>See it on the <a href="https://explorer-testnet.onomy.io/validators/onomyvaloper1s6ckp9z8mtckmydrz07tupxwfk8wwkxt0jt6gk">Onomy Blockchain Explorer</a></p><p><a href="https://onomy.io/">Learn more about Onomy</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h3 id=&quot;Validator-Online&quot;&gt;&lt;a href=&quot;#Validator-Online&quot; class=&quot;headerlink&quot; title=&quot;Validator Online&quot;&gt;&lt;/a&gt;Validator Online&lt;/h3&gt;&lt;p&gt;Our Validator </summary>
       
     
     
@@ -40,6 +64,8 @@
     
     <category term="onomy" scheme="https://lila.eight9.net/tags/onomy/"/>
     
+    <category term="testnet" scheme="https://lila.eight9.net/tags/testnet/"/>
+    
   </entry>
   
   <entry>
@@ -47,7 +73,7 @@
     <link href="https://lila.eight9.net/onomy/"/>
     <id>https://lila.eight9.net/onomy/</id>
     <published>2021-12-03T16:00:00.000Z</published>
-    <updated>2021-12-07T20:11:41.574Z</updated>
+    <updated>2022-04-26T22:55:12.433Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Onomy-Test-Network-2-Coming-Soon"><a href="#Onomy-Test-Network-2-Coming-Soon" class="headerlink" title="Onomy Test Network #2 Coming Soon"></a>Onomy Test Network #2 Coming Soon</h3><p>We have been following the progress of the Onomy Protocol closely. Although up for a short time, we have contributed to the successful first Test Net and are geared up and ready to run a Validator for the 2nd Onomy Test Net. </p>]]></content>
     
@@ -66,6 +92,8 @@
     
     <category term="onomy" scheme="https://lila.eight9.net/tags/onomy/"/>
     
+    <category term="testnet" scheme="https://lila.eight9.net/tags/testnet/"/>
+    
   </entry>
   
   <entry>
@@ -73,14 +101,14 @@
     <link href="https://lila.eight9.net/about/"/>
     <id>https://lila.eight9.net/about/</id>
     <published>2021-12-01T16:00:00.000Z</published>
-    <updated>2021-12-07T20:11:09.399Z</updated>
+    <updated>2022-04-26T22:55:16.173Z</updated>
     
-    <content type="html"><![CDATA[<p>Lila Holdings is dedicated to using our extensive technical experience to contribute to the security of Proof of Stake networks. By staking our own funds, we are incentivized in keeping our validators running 24/7. In doing so, all of our delegators benefit right along with us.</p>]]></content>
+    <content type="html"><![CDATA[<p>Lila Holdings is dedicated to using our extensive technical experience to contribute to the security and growth of Proof of Stake networks. Our team has decades of experience in the business, financial, and system administration fields. By staking our own funds, we are incentivized in keeping our validators running 24/7. In doing so, all of our delegators benefit right along with us.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Lila Holdings is dedicated to using our extensive technical experience to contribute to the security of Proof of Stake networks. By staki</summary>
+    <summary type="html">&lt;p&gt;Lila Holdings is dedicated to using our extensive technical experience to contribute to the security and growth of Proof of Stake network</summary>
       
     
     
