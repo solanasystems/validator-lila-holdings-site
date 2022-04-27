@@ -631,3 +631,10 @@ figure.highlight>table .gutter {
 .network-logo.dark {
   background-color: #AAA;
 }
+
+.navbar-brand {
+  padding: 0 15px;
+}
+.brand-img {
+  max-width: 300px;
+}
