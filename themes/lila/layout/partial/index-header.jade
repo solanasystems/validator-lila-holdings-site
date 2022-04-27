@@ -15,4 +15,11 @@ header.header-section(class={ 'has-img' : display_images })
               h1!= theme.header.title
               hr.small
               span.page-subheading!= theme.header.motto
+              ul.chainbar
+                li.chain
+                  a(href=url_for('/networks'))
+                    img(class="onomy-logo", src=url_for('images/onomy-logo.svg'), width='200px')
+                li.chain
+                  a(href=url_for('/networks'))
+                    img(class="iagon-logo", src=url_for('images/iagon-logo.svg'), width='200px')
     span.img-desc

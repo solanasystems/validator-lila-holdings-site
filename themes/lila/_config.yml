@@ -1,7 +1,8 @@
 navbar-links:
-    About: /about/
+    About: /about
     Archive: /archives
-    Onomy Validator Guild: /ovg
+    Networks: /networks
+    Onomy Validator Alliance: /ova
 
 
 avatar: /images/lh-logo.png
