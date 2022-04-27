@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lila.eight9.net/ovg/</loc>
+    <loc>https://lila.eight9.net/ova/</loc>
     
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
 
   <url>
     <loc>https://lila.eight9.net/</loc>
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -39,21 +39,21 @@
   
   <url>
     <loc>https://lila.eight9.net/tags/staking/</loc>
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lila.eight9.net/tags/validation/</loc>
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lila.eight9.net/tags/onomy/</loc>
-    <lastmod>2021-12-07</lastmod>
+    <lastmod>2022-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
