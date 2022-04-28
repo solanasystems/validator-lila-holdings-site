@@ -3,11 +3,11 @@
   <title>Lila.Holdings</title>
   
   <subtitle>Professional Staking Validator</subtitle>
-  <link href="https://lila.eight9.net/atom.xml" rel="self"/>
+  <link href="https://validator.lila.holdings/atom.xml" rel="self"/>
   
-  <link href="https://lila.eight9.net/"/>
+  <link href="https://validator.lila.holdings/"/>
   <updated>2022-04-27T00:19:50.602Z</updated>
-  <id>https://lila.eight9.net/</id>
+  <id>https://validator.lila.holdings/</id>
   
   <author>
     <name>Lila Holdings</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Iagon</title>
-    <link href="https://lila.eight9.net/investigating-iagon/"/>
-    <id>https://lila.eight9.net/investigating-iagon/</id>
+    <link href="https://validator.lila.holdings/investigating-iagon/"/>
+    <id>https://validator.lila.holdings/investigating-iagon/</id>
     <published>2022-04-25T15:00:00.000Z</published>
     <updated>2022-04-27T00:19:50.602Z</updated>
     
@@ -34,16 +34,16 @@
     
     
     
-    <category term="iagon" scheme="https://lila.eight9.net/tags/iagon/"/>
+    <category term="iagon" scheme="https://validator.lila.holdings/tags/iagon/"/>
     
-    <category term="storage" scheme="https://lila.eight9.net/tags/storage/"/>
+    <category term="storage" scheme="https://validator.lila.holdings/tags/storage/"/>
     
   </entry>
   
   <entry>
     <title>Onomy TestNet Validator Online</title>
-    <link href="https://lila.eight9.net/onomy-testnet2/"/>
-    <id>https://lila.eight9.net/onomy-testnet2/</id>
+    <link href="https://validator.lila.holdings/onomy-testnet2/"/>
+    <id>https://validator.lila.holdings/onomy-testnet2/</id>
     <published>2022-01-20T16:00:00.000Z</published>
     <updated>2022-04-27T00:13:05.887Z</updated>
     
@@ -58,20 +58,20 @@
     
     
     
-    <category term="staking" scheme="https://lila.eight9.net/tags/staking/"/>
+    <category term="staking" scheme="https://validator.lila.holdings/tags/staking/"/>
     
-    <category term="validation" scheme="https://lila.eight9.net/tags/validation/"/>
+    <category term="validation" scheme="https://validator.lila.holdings/tags/validation/"/>
     
-    <category term="onomy" scheme="https://lila.eight9.net/tags/onomy/"/>
+    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://lila.eight9.net/tags/testnet/"/>
+    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Test Network</title>
-    <link href="https://lila.eight9.net/onomy/"/>
-    <id>https://lila.eight9.net/onomy/</id>
+    <link href="https://validator.lila.holdings/onomy/"/>
+    <id>https://validator.lila.holdings/onomy/</id>
     <published>2021-12-03T16:00:00.000Z</published>
     <updated>2022-04-26T22:55:12.433Z</updated>
     
@@ -86,20 +86,20 @@
     
     
     
-    <category term="staking" scheme="https://lila.eight9.net/tags/staking/"/>
+    <category term="staking" scheme="https://validator.lila.holdings/tags/staking/"/>
     
-    <category term="validation" scheme="https://lila.eight9.net/tags/validation/"/>
+    <category term="validation" scheme="https://validator.lila.holdings/tags/validation/"/>
     
-    <category term="onomy" scheme="https://lila.eight9.net/tags/onomy/"/>
+    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://lila.eight9.net/tags/testnet/"/>
+    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>About</title>
-    <link href="https://lila.eight9.net/about/"/>
-    <id>https://lila.eight9.net/about/</id>
+    <link href="https://validator.lila.holdings/about/"/>
+    <id>https://validator.lila.holdings/about/</id>
     <published>2021-12-01T16:00:00.000Z</published>
     <updated>2022-04-26T22:55:16.173Z</updated>
     

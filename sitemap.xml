@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lila.eight9.net/networks.html</loc>
+    <loc>https://validator.lila.holdings/networks.html</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/investigating-iagon/</loc>
+    <loc>https://validator.lila.holdings/investigating-iagon/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/onomy-testnet2/</loc>
+    <loc>https://validator.lila.holdings/onomy-testnet2/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/ova.html</loc>
+    <loc>https://validator.lila.holdings/ova.html</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/about/</loc>
+    <loc>https://validator.lila.holdings/about/</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/onomy/</loc>
+    <loc>https://validator.lila.holdings/onomy/</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/about.html</loc>
+    <loc>https://validator.lila.holdings/about.html</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -66,51 +66,51 @@
   
 
   <url>
-    <loc>https://lila.eight9.net/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://lila.eight9.net/tags/staking/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/tags/staking/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/tags/validation/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/tags/validation/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/tags/onomy/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/tags/onomy/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/tags/testnet/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/tags/testnet/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/tags/iagon/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/tags/iagon/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://lila.eight9.net/tags/storage/</loc>
-    <lastmod>2022-04-27</lastmod>
+    <loc>https://validator.lila.holdings/tags/storage/</loc>
+    <lastmod>2022-04-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
