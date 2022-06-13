@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/lilaholdings
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://validator.lila.holdings
+  * I am lilaholdings (https://keybase.io/lilaholdings) on keybase.
+  * I have a public key ASCPcI7BQSUEWQ7PAQiCkDRbJlo0a2wIZ5AHebmGLGKPNAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208f708ec1412504590ecf01088290345b265a346b6c0867900779b9862c628f340a",
+      "host": "keybase.io",
+      "kid": "01208f708ec1412504590ecf01088290345b265a346b6c0867900779b9862c628f340a",
+      "uid": "425ac43f7692107fffb4f25b705b7119",
+      "username": "lilaholdings"
+    },
+    "merkle_root": {
+      "ctime": 1655139385,
+      "hash": "59a8fbf550218f318b6e7a110d2ffc6447eb41f2bd9b6b1e6454a5bf1639728062448a9d94b6f2fdc71f24c597e846f3f5219c27e828590caac39359947291ee",
+      "hash_meta": "e42a50c8642ee77e495d856d3611febbce2dac49b0e82d73e8e2c08dc00ac9a8",
+      "seqno": 22666382
+    },
+    "service": {
+      "entropy": "HpdLD4bxxZRo+/I6Y+ewMU9q",
+      "hostname": "validator.lila.holdings",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1655139464,
+  "expire_in": 504576000,
+  "prev": "71f0167fda663c616057c843b7d196114f15dbb9e091b008deda7b4fd9fad0a9",
+  "seqno": 4,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgj3COwUElBFkOzwEIgpA0WyZaNGtsCGeQB3m5hixijzQKp3BheWxvYWTESpcCBMQgcfAWf9pmPGFgV8hDt9GWEU8V27ngkbAI3tp7T9n60KnEIP4UgGsbM1WO2V12MWgjX9GVTzQZFIFsFtBNWho8qGYOAgHCo3NpZ8RAy3EcG9bk6zkZDqfZPtAN1aHaiz4ffO0sNQ4no+6eC4k+uP1pN5iwM0ohet0uzS2RZjt5+6mMdRQzRSN8RO0sA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIUQlk5OKZE6QZ5Q5MTwVDjJHQbhC5Hu6ZZP7h0o55Pdo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/lilaholdings
+
+==================================================================
