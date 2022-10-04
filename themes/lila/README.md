@@ -62,3 +62,7 @@ navbar-links:
 Theme config file is brief and clear. 
 If you have any question, check [hexo online document](https://hexo.io/).
 
+### Deploy
+```
+hexo deploy --generate
+```
