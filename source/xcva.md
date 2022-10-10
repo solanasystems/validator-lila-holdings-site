@@ -5,4 +5,4 @@ Lila.Holdings is a founding member of the X-Chain Validator Alliance. XCVA is a 
 
 [Nomblocks - https://nomblocks.io](https://nomblocks.io)
 [NCC - https://nordiccolo.com](https://nordiccolo.com)
-[GLBB - https://www.glbb.jp](https://www.glbb.jp)
+[NomAddict-JP - https://www.glbb.jp](https://www.glbb.jp)
