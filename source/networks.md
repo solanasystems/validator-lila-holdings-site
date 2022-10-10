@@ -9,9 +9,9 @@ Validator rewards will be split between our validator and all of our delegators 
 Lila Holdings is dedicated to supporting the Onomy Protocol and it's Community for the long term health of the blockchain protocol. We have been supporting the Onomy Protocol by contributing resources for the Onomy Testnet and the upcoming launch of the Main Network. Delegate your $NOM tokens with us to help support and secure the Onomy network.
 
 #### Blockchain Explorer - [https://explorer-testnet.onomy.io](https://explorer-testnet.onomy.io)
-#### Lila.Holdings Testnet Validator [onomyvaloper1cn52nxpgv8j40t54alvxq9nnwsfe5z9gscav33](https://explorer-testnet.onomy.io/validators/onomyvaloper1cn52nxpgv8j40t54alvxq9nnwsfe5z9gscav33)
+#### Lila.Holdings Testnet Validator [onomyvaloper12reepqzweq5hjd3lxaqlfh0f6pumz0dt0vq97y](https://explorer-testnet.onomy.io/validators/onomyvaloper12reepqzweq5hjd3lxaqlfh0f6pumz0dt0vq97y)
 
-Instructions for Staking coming soon.
+[Help Contribute to the Testnet](https://onomy.notion.site/onomy/The-Onomy-Testnet-A-Step-by-Step-Tutorial-00c2c8e3bc634252be8f89bbe0e16f07)
 
 - - -
 
