@@ -6,7 +6,7 @@
   <link href="https://validator.lila.holdings/atom.xml" rel="self"/>
   
   <link href="https://validator.lila.holdings/"/>
-  <updated>2022-10-04T17:06:27.672Z</updated>
+  <updated>2022-10-10T17:06:23.274Z</updated>
   <id>https://validator.lila.holdings/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Onomy Public Testnet Online</title>
+    <link href="https://validator.lila.holdings/Onomy-Public-Testnet-Online/"/>
+    <id>https://validator.lila.holdings/Onomy-Public-Testnet-Online/</id>
+    <published>2022-10-10T16:54:21.000Z</published>
+    <updated>2022-10-10T17:06:23.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>Onomy Public Testnet is now open. Everyone is encouraged to join the <a href="https://t.co/fBia0Vy41s">Discord</a> and begin helping to test the Bonding Curve, Bridging, and Staking processes. <a href="https://onomy.notion.site/onomy/The-Onomy-Testnet-A-Step-by-Step-Tutorial-00c2c8e3bc634252be8f89bbe0e16f07">View the Step-By-Step Instructions</a> or view the <a href="https://www.youtube.com/watch?v=XQ5Pyttx5vo">Video</a></p><p>Remember, this is a Testnet and there will not be any real money staked. Be skeptical of scams.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Onomy Public Testnet is now open. Everyone is encouraged to join the &lt;a href=&quot;https://t.co/fBia0Vy41s&quot;&gt;Discord&lt;/a&gt; and begin helping to t</summary>
+      
+    
+    
+    
+    
+    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    
+    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    
+  </entry>
   
   <entry>
     <title>Onomy Public Testnet Starting Oct 10th</title>
@@ -69,9 +93,9 @@
     <link href="https://validator.lila.holdings/onomy-testnet2/"/>
     <id>https://validator.lila.holdings/onomy-testnet2/</id>
     <published>2022-01-20T16:00:00.000Z</published>
-    <updated>2022-04-27T00:13:05.887Z</updated>
+    <updated>2022-10-10T16:39:06.866Z</updated>
     
-    <content type="html"><![CDATA[<h3 id="Validator-Online"><a href="#Validator-Online" class="headerlink" title="Validator Online"></a>Validator Online</h3><p>Our Validator is Online for the Second Onomy Testnet. We are looking forward to continue helping build the strength of the Onomy network.<br>See it on the <a href="https://explorer-testnet.onomy.io/validators/onomyvaloper1s6ckp9z8mtckmydrz07tupxwfk8wwkxt0jt6gk">Onomy Blockchain Explorer</a></p><p><a href="https://onomy.io/">Learn more about Onomy</a></p>]]></content>
+    <content type="html"><![CDATA[<h3 id="Validator-Online"><a href="#Validator-Online" class="headerlink" title="Validator Online"></a>Validator Online</h3><p>Our Validator is Online for the Second Onomy Testnet. We are looking forward to continue helping build the strength of the Onomy network.<br>See it on the <a href="https://explorer-testnet.onomy.io/validators/onomyvaloper12reepqzweq5hjd3lxaqlfh0f6pumz0dt0vq97y">Onomy Blockchain Explorer</a></p><p><a href="https://onomy.io/">Learn more about Onomy</a></p>]]></content>
     
     
       
