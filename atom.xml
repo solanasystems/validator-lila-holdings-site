@@ -6,7 +6,7 @@
   <link href="https://validator.lila.holdings/atom.xml" rel="self"/>
   
   <link href="https://validator.lila.holdings/"/>
-  <updated>2022-10-10T17:06:23.274Z</updated>
+  <updated>2022-11-22T23:03:45.093Z</updated>
   <id>https://validator.lila.holdings/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Onomy Cleared For Launch</title>
+    <link href="https://validator.lila.holdings/Onomy-Cleared-For-Launch/"/>
+    <id>https://validator.lila.holdings/Onomy-Cleared-For-Launch/</id>
+    <published>2022-11-16T22:55:28.000Z</published>
+    <updated>2022-11-22T23:03:45.093Z</updated>
+    
+    <content type="html"><![CDATA[<p>The Onomy Team has declared the testnet a success. <a href="https://medium.com/onomy-protocol/testnet-a-roaring-success-onomy-cleared-for-launch-6f903ecebfbe">See Article</a><br>Since the start of the Testnet, there has been over 800K transactions and more than 40K unique $NOM addresses recorded. Soon the Onomy team will announce the mainnet Launch date.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;The Onomy Team has declared the testnet a success. &lt;a href=&quot;https://medium.com/onomy-protocol/testnet-a-roaring-success-onomy-cleared-for</summary>
+      
+    
+    
+    
+    
+    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    
+    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    
+    <category term="launch" scheme="https://validator.lila.holdings/tags/launch/"/>
+    
+    <category term="mainnet" scheme="https://validator.lila.holdings/tags/mainnet/"/>
+    
+  </entry>
   
   <entry>
     <title>Onomy Public Testnet Online</title>
