@@ -7,10 +7,10 @@ navbar-links:
 
 avatar: /images/lila-logo.svg
 favicon: /images/lila-logo.svg
-brand: /images/lila-logo-name.svg
+brand: "Onomy Holdings"
 
 header:
-    title: "Lila.Holdings"
+    title: "Onomy.Holdings"
     motto: Crypto. Validation. Staking.
     bigimgs:
         - src: /images/galaxy.jpg
@@ -54,7 +54,7 @@ footer:
     icon: fa-twitter
     enable: false
   mail:
-    link: 'mailto:admin@lila.holdings'
+    link: 'mailto:admin@onomy.holdings'
     title: Contact Us
     icon: fa-envelope
     enable: true

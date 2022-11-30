@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Lila.Holdings
+title: Onomy.Holdings
 subtitle: 'Professional Staking Validator'
 description: ''
 keywords: stake, staking, validation, validator, onomy, cosmos, tendermint
@@ -13,7 +13,7 @@ timezone: 'America/Los_Angeles'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://validator.lila.holdings
+url: https://onomy.holdings
 permalink: :title/
 permalink_defaults:
 pretty_urls:
