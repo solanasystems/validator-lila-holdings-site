@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lila.Holdings</title>
+  <title>Onomy.Holdings</title>
   
   <subtitle>Professional Staking Validator</subtitle>
-  <link href="https://validator.lila.holdings/atom.xml" rel="self"/>
+  <link href="https://onomy.holdings/atom.xml" rel="self"/>
   
-  <link href="https://validator.lila.holdings/"/>
+  <link href="https://onomy.holdings/"/>
   <updated>2022-11-22T23:03:45.093Z</updated>
-  <id>https://validator.lila.holdings/</id>
+  <id>https://onomy.holdings/</id>
   
   <author>
     <name>Lila Holdings</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Onomy Cleared For Launch</title>
-    <link href="https://validator.lila.holdings/Onomy-Cleared-For-Launch/"/>
-    <id>https://validator.lila.holdings/Onomy-Cleared-For-Launch/</id>
+    <link href="https://onomy.holdings/Onomy-Cleared-For-Launch/"/>
+    <id>https://onomy.holdings/Onomy-Cleared-For-Launch/</id>
     <published>2022-11-16T22:55:28.000Z</published>
     <updated>2022-11-22T23:03:45.093Z</updated>
     
@@ -34,20 +34,20 @@
     
     
     
-    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
     
-    <category term="launch" scheme="https://validator.lila.holdings/tags/launch/"/>
+    <category term="launch" scheme="https://onomy.holdings/tags/launch/"/>
     
-    <category term="mainnet" scheme="https://validator.lila.holdings/tags/mainnet/"/>
+    <category term="mainnet" scheme="https://onomy.holdings/tags/mainnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Public Testnet Online</title>
-    <link href="https://validator.lila.holdings/Onomy-Public-Testnet-Online/"/>
-    <id>https://validator.lila.holdings/Onomy-Public-Testnet-Online/</id>
+    <link href="https://onomy.holdings/Onomy-Public-Testnet-Online/"/>
+    <id>https://onomy.holdings/Onomy-Public-Testnet-Online/</id>
     <published>2022-10-10T16:54:21.000Z</published>
     <updated>2022-10-10T17:06:23.274Z</updated>
     
@@ -62,16 +62,16 @@
     
     
     
-    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Public Testnet Starting Oct 10th</title>
-    <link href="https://validator.lila.holdings/Onomy-Public-Testnet/"/>
-    <id>https://validator.lila.holdings/Onomy-Public-Testnet/</id>
+    <link href="https://onomy.holdings/Onomy-Public-Testnet/"/>
+    <id>https://onomy.holdings/Onomy-Public-Testnet/</id>
     <published>2022-10-04T16:54:17.000Z</published>
     <updated>2022-10-04T17:06:27.672Z</updated>
     
@@ -86,16 +86,16 @@
     
     
     
-    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Iagon</title>
-    <link href="https://validator.lila.holdings/investigating-iagon/"/>
-    <id>https://validator.lila.holdings/investigating-iagon/</id>
+    <link href="https://onomy.holdings/investigating-iagon/"/>
+    <id>https://onomy.holdings/investigating-iagon/</id>
     <published>2022-04-25T15:00:00.000Z</published>
     <updated>2022-04-27T00:19:50.602Z</updated>
     
@@ -110,16 +110,16 @@
     
     
     
-    <category term="iagon" scheme="https://validator.lila.holdings/tags/iagon/"/>
+    <category term="iagon" scheme="https://onomy.holdings/tags/iagon/"/>
     
-    <category term="storage" scheme="https://validator.lila.holdings/tags/storage/"/>
+    <category term="storage" scheme="https://onomy.holdings/tags/storage/"/>
     
   </entry>
   
   <entry>
     <title>Onomy TestNet Validator Online</title>
-    <link href="https://validator.lila.holdings/onomy-testnet2/"/>
-    <id>https://validator.lila.holdings/onomy-testnet2/</id>
+    <link href="https://onomy.holdings/onomy-testnet2/"/>
+    <id>https://onomy.holdings/onomy-testnet2/</id>
     <published>2022-01-20T16:00:00.000Z</published>
     <updated>2022-10-10T16:39:06.866Z</updated>
     
@@ -134,20 +134,20 @@
     
     
     
-    <category term="staking" scheme="https://validator.lila.holdings/tags/staking/"/>
+    <category term="staking" scheme="https://onomy.holdings/tags/staking/"/>
     
-    <category term="validation" scheme="https://validator.lila.holdings/tags/validation/"/>
+    <category term="validation" scheme="https://onomy.holdings/tags/validation/"/>
     
-    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Test Network</title>
-    <link href="https://validator.lila.holdings/onomy/"/>
-    <id>https://validator.lila.holdings/onomy/</id>
+    <link href="https://onomy.holdings/onomy/"/>
+    <id>https://onomy.holdings/onomy/</id>
     <published>2021-12-03T16:00:00.000Z</published>
     <updated>2022-04-26T22:55:12.433Z</updated>
     
@@ -162,20 +162,20 @@
     
     
     
-    <category term="staking" scheme="https://validator.lila.holdings/tags/staking/"/>
+    <category term="staking" scheme="https://onomy.holdings/tags/staking/"/>
     
-    <category term="validation" scheme="https://validator.lila.holdings/tags/validation/"/>
+    <category term="validation" scheme="https://onomy.holdings/tags/validation/"/>
     
-    <category term="onomy" scheme="https://validator.lila.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://validator.lila.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>About</title>
-    <link href="https://validator.lila.holdings/about/"/>
-    <id>https://validator.lila.holdings/about/</id>
+    <link href="https://onomy.holdings/about/"/>
+    <id>https://onomy.holdings/about/</id>
     <published>2021-12-01T16:00:00.000Z</published>
     <updated>2022-04-26T22:55:16.173Z</updated>
     

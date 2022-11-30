@@ -638,3 +638,9 @@ figure.highlight>table .gutter {
 .brand-img {
   max-width: 300px;
 }
+.brand-text {
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 2.2em;
+  margin-top: 12px
+}

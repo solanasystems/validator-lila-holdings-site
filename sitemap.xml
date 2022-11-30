@@ -2,7 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://validator.lila.holdings/Onomy-Cleared-For-Launch/</loc>
+    <loc>https://onomy.holdings/xcva.html</loc>
+    
+    <lastmod>2022-11-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://onomy.holdings/Onomy-Cleared-For-Launch/</loc>
     
     <lastmod>2022-11-22</lastmod>
     
@@ -11,16 +20,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/xcva.html</loc>
-    
-    <lastmod>2022-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://validator.lila.holdings/networks.html</loc>
+    <loc>https://onomy.holdings/networks.html</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/Onomy-Public-Testnet-Online/</loc>
+    <loc>https://onomy.holdings/Onomy-Public-Testnet-Online/</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/onomy-testnet2/</loc>
+    <loc>https://onomy.holdings/onomy-testnet2/</loc>
     
     <lastmod>2022-10-10</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/Onomy-Public-Testnet/</loc>
+    <loc>https://onomy.holdings/Onomy-Public-Testnet/</loc>
     
     <lastmod>2022-10-04</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/investigating-iagon/</loc>
+    <loc>https://onomy.holdings/investigating-iagon/</loc>
     
     <lastmod>2022-04-27</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/about/</loc>
+    <loc>https://onomy.holdings/about/</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/onomy/</loc>
+    <loc>https://onomy.holdings/onomy/</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/about.html</loc>
+    <loc>https://onomy.holdings/about.html</loc>
     
     <lastmod>2022-04-26</lastmod>
     
@@ -93,65 +93,65 @@
   
 
   <url>
-    <loc>https://validator.lila.holdings/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://validator.lila.holdings/tags/staking/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/staking/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/validation/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/validation/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/onomy/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/onomy/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/testnet/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/testnet/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/iagon/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/iagon/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/storage/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/storage/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/launch/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/launch/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://validator.lila.holdings/tags/mainnet/</loc>
-    <lastmod>2022-11-22</lastmod>
+    <loc>https://onomy.holdings/tags/mainnet/</loc>
+    <lastmod>2022-11-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
