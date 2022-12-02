@@ -1,25 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Onomy.Holdings</title>
+  <title>Cosmos.Holdings</title>
   
   <subtitle>Professional Staking Validator</subtitle>
-  <link href="https://onomy.holdings/atom.xml" rel="self"/>
+  <link href="https://cosmos.holdings/atom.xml" rel="self"/>
   
-  <link href="https://onomy.holdings/"/>
-  <updated>2022-11-22T23:03:45.093Z</updated>
-  <id>https://onomy.holdings/</id>
+  <link href="https://cosmos.holdings/"/>
+  <updated>2022-11-30T18:53:01.787Z</updated>
+  <id>https://cosmos.holdings/</id>
   
   <author>
-    <name>Lila Holdings</name>
+    <name>Cosmos Holdings</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Onomy has Liftoff!</title>
+    <link href="https://cosmos.holdings/Onomy-has-Liftoff/"/>
+    <id>https://cosmos.holdings/Onomy-has-Liftoff/</id>
+    <published>2022-11-30T18:45:31.000Z</published>
+    <updated>2022-11-30T18:53:01.787Z</updated>
+    
+    <content type="html"><![CDATA[<p>Onomy has launched it’s Mainnet. Many validators are coming online as we write this, including ours.</p><p>There will be a $NOM Bonding Curve launch party on Tuesday, December 6th at 3pm UTC in the <a href="https://discord.gg/onomy">Onomy Discord</a>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Onomy has launched it’s Mainnet. Many validators are coming online as we write this, including ours.&lt;/p&gt;
+&lt;p&gt;There will be a $NOM Bonding </summary>
+      
+    
+    
+    
+    
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
+    
+    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
+    
+    <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Onomy Cleared For Launch</title>
-    <link href="https://onomy.holdings/Onomy-Cleared-For-Launch/"/>
-    <id>https://onomy.holdings/Onomy-Cleared-For-Launch/</id>
+    <link href="https://cosmos.holdings/Onomy-Cleared-For-Launch/"/>
+    <id>https://cosmos.holdings/Onomy-Cleared-For-Launch/</id>
     <published>2022-11-16T22:55:28.000Z</published>
     <updated>2022-11-22T23:03:45.093Z</updated>
     
@@ -34,20 +61,20 @@
     
     
     
-    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
     
-    <category term="launch" scheme="https://onomy.holdings/tags/launch/"/>
+    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
     
-    <category term="mainnet" scheme="https://onomy.holdings/tags/mainnet/"/>
+    <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Public Testnet Online</title>
-    <link href="https://onomy.holdings/Onomy-Public-Testnet-Online/"/>
-    <id>https://onomy.holdings/Onomy-Public-Testnet-Online/</id>
+    <link href="https://cosmos.holdings/Onomy-Public-Testnet-Online/"/>
+    <id>https://cosmos.holdings/Onomy-Public-Testnet-Online/</id>
     <published>2022-10-10T16:54:21.000Z</published>
     <updated>2022-10-10T17:06:23.274Z</updated>
     
@@ -62,16 +89,16 @@
     
     
     
-    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Public Testnet Starting Oct 10th</title>
-    <link href="https://onomy.holdings/Onomy-Public-Testnet/"/>
-    <id>https://onomy.holdings/Onomy-Public-Testnet/</id>
+    <link href="https://cosmos.holdings/Onomy-Public-Testnet/"/>
+    <id>https://cosmos.holdings/Onomy-Public-Testnet/</id>
     <published>2022-10-04T16:54:17.000Z</published>
     <updated>2022-10-04T17:06:27.672Z</updated>
     
@@ -86,16 +113,16 @@
     
     
     
-    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Iagon</title>
-    <link href="https://onomy.holdings/investigating-iagon/"/>
-    <id>https://onomy.holdings/investigating-iagon/</id>
+    <link href="https://cosmos.holdings/investigating-iagon/"/>
+    <id>https://cosmos.holdings/investigating-iagon/</id>
     <published>2022-04-25T15:00:00.000Z</published>
     <updated>2022-04-27T00:19:50.602Z</updated>
     
@@ -110,16 +137,16 @@
     
     
     
-    <category term="iagon" scheme="https://onomy.holdings/tags/iagon/"/>
+    <category term="iagon" scheme="https://cosmos.holdings/tags/iagon/"/>
     
-    <category term="storage" scheme="https://onomy.holdings/tags/storage/"/>
+    <category term="storage" scheme="https://cosmos.holdings/tags/storage/"/>
     
   </entry>
   
   <entry>
     <title>Onomy TestNet Validator Online</title>
-    <link href="https://onomy.holdings/onomy-testnet2/"/>
-    <id>https://onomy.holdings/onomy-testnet2/</id>
+    <link href="https://cosmos.holdings/onomy-testnet2/"/>
+    <id>https://cosmos.holdings/onomy-testnet2/</id>
     <published>2022-01-20T16:00:00.000Z</published>
     <updated>2022-10-10T16:39:06.866Z</updated>
     
@@ -134,20 +161,20 @@
     
     
     
-    <category term="staking" scheme="https://onomy.holdings/tags/staking/"/>
+    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
     
-    <category term="validation" scheme="https://onomy.holdings/tags/validation/"/>
+    <category term="validation" scheme="https://cosmos.holdings/tags/validation/"/>
     
-    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>Onomy Test Network</title>
-    <link href="https://onomy.holdings/onomy/"/>
-    <id>https://onomy.holdings/onomy/</id>
+    <link href="https://cosmos.holdings/onomy/"/>
+    <id>https://cosmos.holdings/onomy/</id>
     <published>2021-12-03T16:00:00.000Z</published>
     <updated>2022-04-26T22:55:12.433Z</updated>
     
@@ -162,29 +189,29 @@
     
     
     
-    <category term="staking" scheme="https://onomy.holdings/tags/staking/"/>
+    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
     
-    <category term="validation" scheme="https://onomy.holdings/tags/validation/"/>
+    <category term="validation" scheme="https://cosmos.holdings/tags/validation/"/>
     
-    <category term="onomy" scheme="https://onomy.holdings/tags/onomy/"/>
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://onomy.holdings/tags/testnet/"/>
+    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
     
   </entry>
   
   <entry>
     <title>About</title>
-    <link href="https://onomy.holdings/about/"/>
-    <id>https://onomy.holdings/about/</id>
+    <link href="https://cosmos.holdings/about/"/>
+    <id>https://cosmos.holdings/about/</id>
     <published>2021-12-01T16:00:00.000Z</published>
-    <updated>2022-04-26T22:55:16.173Z</updated>
+    <updated>2022-11-30T18:37:02.474Z</updated>
     
-    <content type="html"><![CDATA[<p>Lila Holdings is dedicated to using our extensive technical experience to contribute to the security and growth of Proof of Stake networks. Our team has decades of experience in the business, financial, and system administration fields. By staking our own funds, we are incentivized in keeping our validators running 24/7. In doing so, all of our delegators benefit right along with us.</p>]]></content>
+    <content type="html"><![CDATA[<p>Onomy Holdings is dedicated to using our extensive technical experience to contribute to the security and growth of Proof of Stake networks. Our team has decades of experience in the business, financial, and system administration fields. By staking our own funds, we are incentivized in keeping our validators running 24&#x2F;7. In doing so, all of our delegators benefit right along with us.</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Lila Holdings is dedicated to using our extensive technical experience to contribute to the security and growth of Proof of Stake network</summary>
+    <summary type="html">&lt;p&gt;Onomy Holdings is dedicated to using our extensive technical experience to contribute to the security and growth of Proof of Stake networ</summary>
       
     
     
