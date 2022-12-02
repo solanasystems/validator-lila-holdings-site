@@ -7,10 +7,10 @@ navbar-links:
 
 avatar: /images/lila-logo.svg
 favicon: /images/lila-logo.svg
-brand: "Onomy Holdings"
+brand: "Cosmos Holdings"
 
 header:
-    title: "Onomy.Holdings"
+    title: "Cosmos.Holdings"
     motto: Crypto. Validation. Staking.
     bigimgs:
         - src: /images/galaxy.jpg
