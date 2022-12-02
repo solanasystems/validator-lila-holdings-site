@@ -5,5 +5,5 @@ Cosmos.Holdings is a founding member of the X-Chain Validator Alliance. XCVA is 
 
 [Cosmos Holdings - https://Cosmos.Holdings](https://cosmos.holdings)
 [Nomblocks - https://nomblocks.io](https://nomblocks.io)
-[NCC - https://nordiccolo.com](https://nordiccolo.com)
+[DeFi-Scandinavia - https://nordiccolo.com](https://nordiccolo.com)
 [Nomadic - https://www.glbb.jp](https://www.glbb.jp)
