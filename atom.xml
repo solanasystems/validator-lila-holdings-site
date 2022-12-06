@@ -6,7 +6,7 @@
   <link href="https://cosmos.holdings/atom.xml" rel="self"/>
   
   <link href="https://cosmos.holdings/"/>
-  <updated>2022-11-30T18:53:01.787Z</updated>
+  <updated>2022-12-06T17:53:13.822Z</updated>
   <id>https://cosmos.holdings/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Onomy Bonding Curve has Launched</title>
+    <link href="https://cosmos.holdings/Onomy-Bonding-Curve-has-Launched/"/>
+    <id>https://cosmos.holdings/Onomy-Bonding-Curve-has-Launched/</id>
+    <published>2022-12-06T17:40:58.000Z</published>
+    <updated>2022-12-06T17:53:13.822Z</updated>
+    
+    <content type="html"><![CDATA[<p>The Onomy Bonding Curve interface has Launched on the mainnet. <a href="https://bco.onomy.io/">bco.onomy.io</a></p><p>Buy bNom using Eth then bridge to $NOM. Once fully Bridged you can stake your bNom with us and start earning rewards.<br><a href="/networks">Stake With Us</a>.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;The Onomy Bonding Curve interface has Launched on the mainnet. &lt;a href=&quot;https://bco.onomy.io/&quot;&gt;bco.onomy.io&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Buy bNom using Eth</summary>
+      
+    
+    
+    
+    
+    <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
+    
+    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
+    
+    <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
+    
+  </entry>
   
   <entry>
     <title>Onomy has Liftoff!</title>

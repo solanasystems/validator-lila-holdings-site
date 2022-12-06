@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://cosmos.holdings/xcva.html</loc>
+    <loc>https://cosmos.holdings/Onomy-Bonding-Curve-has-Launched/</loc>
     
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -12,6 +12,15 @@
   
   <url>
     <loc>https://cosmos.holdings/networks.html</loc>
+    
+    <lastmod>2022-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/xcva.html</loc>
     
     <lastmod>2022-12-02</lastmod>
     
@@ -103,7 +112,7 @@
 
   <url>
     <loc>https://cosmos.holdings/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -111,56 +120,56 @@
   
   <url>
     <loc>https://cosmos.holdings/tags/staking/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/validation/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/onomy/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/testnet/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/iagon/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/storage/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/launch/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/mainnet/</loc>
-    <lastmod>2022-12-02</lastmod>
+    <lastmod>2022-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
