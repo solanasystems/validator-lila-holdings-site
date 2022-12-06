@@ -18,7 +18,9 @@ Cosmos Holdings is dedicated to supporting the Onomy Protocol and it's Community
 ##### Mainnet
 - #### Blockchain Explorer - [explorer.onomy.io](https://explorer.onomy.io)
 
-- #### Onomy Bonding Curve - [bonding-curve.onomy.io](https://bonding-curve.onomy.io)
+- #### XCVA Onomy Insights - [insights.cosmos.holdings](https://insights.cosmos.holdings)
+
+- #### Onomy Bonding Curve - [bco.onomy.io](https://bco.onomy.io/)
 
 - #### Cosmos.Holdings Mainnet Validator - [onomyvaloper1w09kn8ykzcn0ugxgplqal9akvs94pp8kytgw2j](https://explorer.onomy.io/validators/onomyvaloper1w09kn8ykzcn0ugxgplqal9akvs94pp8kytgw2j)
 
