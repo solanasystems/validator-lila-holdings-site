@@ -97,7 +97,7 @@ img {
 /* --- Navbar --- */
 #main-navbar {
   position: relative;
-  z-index: 5;
+  z-index: 10;
 }
 .navbar-custom {
   background: #F5F5F5;
@@ -146,7 +146,7 @@ img {
   left: 50%;
   width: 50px;
   margin-top: -25px;
-  z-index: 2;
+  z-index: 5;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
@@ -638,6 +638,8 @@ figure.highlight>table .gutter {
 
 .navbar-brand {
   padding: 0 15px;
+  z-index: 15;
+  position: relative;
 }
 .brand-img {
   max-width: 300px;
