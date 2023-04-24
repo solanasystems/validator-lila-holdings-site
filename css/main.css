@@ -95,7 +95,10 @@ img {
 }
 
 /* --- Navbar --- */
-
+#main-navbar {
+  position: relative;
+  z-index: 5;
+}
 .navbar-custom {
   background: #F5F5F5;
   border-bottom: 1px solid #EAEAEA;
@@ -143,6 +146,7 @@ img {
   left: 50%;
   width: 50px;
   margin-top: -25px;
+  z-index: 2;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
