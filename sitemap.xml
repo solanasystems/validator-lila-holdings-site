@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://cosmos.holdings/Onomy-Available-on-Exchange/</loc>
+    
+    <lastmod>2023-04-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cosmos.holdings/Onomy-Bonding-Curve-has-Launched/</loc>
     
     <lastmod>2022-12-06</lastmod>
@@ -169,6 +178,13 @@
   
   <url>
     <loc>https://cosmos.holdings/tags/mainnet/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/exchange/</loc>
     <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
