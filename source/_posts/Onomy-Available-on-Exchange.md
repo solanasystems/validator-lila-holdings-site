@@ -5,6 +5,7 @@ tags:
  - onomy
  - mainnet
  - exchange
+ - staking
 ---
 Onomy is available for purchase on several exchanges. Buy & Stake your $NOM Today.
  1. Buy $NOM. [KuCoin](https://www.kucoin.com/), [BitFinix](https://www.bitfinex.com/), [Gate.io](https://gate.io/), [Bitget](https://www.bitget.com/)
