@@ -47,6 +47,24 @@
   </url>
   
   <url>
+    <loc>https://cosmos.holdings/Onomy-Cleared-For-Launch/</loc>
+    
+    <lastmod>2022-11-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/Onomy-Public-Testnet-Online/</loc>
+    
+    <lastmod>2022-11-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://cosmos.holdings/about/</loc>
     
     <lastmod>2022-11-30</lastmod>
@@ -65,24 +83,6 @@
   </url>
   
   <url>
-    <loc>https://cosmos.holdings/Onomy-Cleared-For-Launch/</loc>
-    
-    <lastmod>2022-11-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/Onomy-Public-Testnet-Online/</loc>
-    
-    <lastmod>2022-10-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://cosmos.holdings/onomy-testnet2/</loc>
     
     <lastmod>2022-10-10</lastmod>
@@ -94,16 +94,7 @@
   <url>
     <loc>https://cosmos.holdings/Onomy-Public-Testnet/</loc>
     
-    <lastmod>2022-10-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/investigating-iagon/</loc>
-    
-    <lastmod>2022-04-27</lastmod>
+    <lastmod>2022-10-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -112,7 +103,16 @@
   <url>
     <loc>https://cosmos.holdings/onomy/</loc>
     
-    <lastmod>2022-04-26</lastmod>
+    <lastmod>2022-04-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/investigating-iagon/</loc>
+    
+    <lastmod>2022-04-28</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -126,6 +126,41 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/onomy/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/mainnet/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/launch/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/testnet/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/exchange/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://cosmos.holdings/tags/staking/</loc>
@@ -142,20 +177,6 @@
   </url>
   
   <url>
-    <loc>https://cosmos.holdings/tags/onomy/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/tags/testnet/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cosmos.holdings/tags/iagon/</loc>
     <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,27 +185,6 @@
   
   <url>
     <loc>https://cosmos.holdings/tags/storage/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/tags/launch/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/tags/mainnet/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/tags/exchange/</loc>
     <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

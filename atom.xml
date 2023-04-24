@@ -36,13 +36,13 @@
     
     
     
-    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
-    
     <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
     <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
     
     <category term="exchange" scheme="https://cosmos.holdings/tags/exchange/"/>
+    
+    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
     
   </entry>
   
@@ -67,9 +67,9 @@
     
     <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
-    
     <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
+    
+    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
     
   </entry>
   
@@ -94,9 +94,9 @@
     
     <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
-    
     <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
+    
+    <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
     
   </entry>
   
@@ -105,7 +105,7 @@
     <link href="https://cosmos.holdings/Onomy-Cleared-For-Launch/"/>
     <id>https://cosmos.holdings/Onomy-Cleared-For-Launch/</id>
     <published>2022-11-16T22:55:28.000Z</published>
-    <updated>2022-11-22T23:03:45.093Z</updated>
+    <updated>2022-11-30T18:48:47.239Z</updated>
     
     <content type="html"><![CDATA[<p>The Onomy Team has declared the testnet a success. <a href="https://medium.com/onomy-protocol/testnet-a-roaring-success-onomy-cleared-for-launch-6f903ecebfbe">See Article</a><br>Since the start of the Testnet, there has been over 800K transactions and more than 40K unique $NOM addresses recorded. Soon the Onomy team will announce the mainnet Launch date.</p>]]></content>
     
@@ -120,11 +120,11 @@
     
     <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
-    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
+    <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
     
     <category term="launch" scheme="https://cosmos.holdings/tags/launch/"/>
     
-    <category term="mainnet" scheme="https://cosmos.holdings/tags/mainnet/"/>
+    <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
     
   </entry>
   
@@ -133,7 +133,7 @@
     <link href="https://cosmos.holdings/Onomy-Public-Testnet-Online/"/>
     <id>https://cosmos.holdings/Onomy-Public-Testnet-Online/</id>
     <published>2022-10-10T16:54:21.000Z</published>
-    <updated>2022-10-10T17:06:23.274Z</updated>
+    <updated>2022-11-30T18:46:24.800Z</updated>
     
     <content type="html"><![CDATA[<p>Onomy Public Testnet is now open. Everyone is encouraged to join the <a href="https://t.co/fBia0Vy41s">Discord</a> and begin helping to test the Bonding Curve, Bridging, and Staking processes. <a href="https://onomy.notion.site/onomy/The-Onomy-Testnet-A-Step-by-Step-Tutorial-00c2c8e3bc634252be8f89bbe0e16f07">View the Step-By-Step Instructions</a> or view the <a href="https://www.youtube.com/watch?v=XQ5Pyttx5vo">Video</a></p><p>Remember, this is a Testnet and there will not be any real money staked. Be skeptical of scams.</p>]]></content>
     
@@ -157,7 +157,7 @@
     <link href="https://cosmos.holdings/Onomy-Public-Testnet/"/>
     <id>https://cosmos.holdings/Onomy-Public-Testnet/</id>
     <published>2022-10-04T16:54:17.000Z</published>
-    <updated>2022-10-04T17:06:27.672Z</updated>
+    <updated>2022-10-10T16:38:59.881Z</updated>
     
     <content type="html"><![CDATA[<p>Onomy Testnet will open to the public on October 10th.  A big and exciting next step for the Onomy network.  Our Validator is already Online and running. We are looking forward to see the network grow.</p>]]></content>
     
@@ -181,7 +181,7 @@
     <link href="https://cosmos.holdings/investigating-iagon/"/>
     <id>https://cosmos.holdings/investigating-iagon/</id>
     <published>2022-04-25T15:00:00.000Z</published>
-    <updated>2022-04-27T00:19:50.602Z</updated>
+    <updated>2022-04-28T21:08:57.047Z</updated>
     
     <content type="html"><![CDATA[<p>We have begun discussions with the team at Iagon. Iagon is creating a decentralised storage chain providing a new generation of encrypted cloud storage. We are excited about working with and becoming a resource partner for the Iagon network.</p><p><a href="https://iagon.com/">Learn more about Iagon</a></p>]]></content>
     
@@ -218,13 +218,13 @@
     
     
     
-    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
-    
-    <category term="validation" scheme="https://cosmos.holdings/tags/validation/"/>
-    
     <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
     <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
+    
+    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
+    
+    <category term="validation" scheme="https://cosmos.holdings/tags/validation/"/>
     
   </entry>
   
@@ -233,7 +233,7 @@
     <link href="https://cosmos.holdings/onomy/"/>
     <id>https://cosmos.holdings/onomy/</id>
     <published>2021-12-03T16:00:00.000Z</published>
-    <updated>2022-04-26T22:55:12.433Z</updated>
+    <updated>2022-04-28T21:08:57.049Z</updated>
     
     <content type="html"><![CDATA[<h3 id="Onomy-Test-Network-2-Coming-Soon"><a href="#Onomy-Test-Network-2-Coming-Soon" class="headerlink" title="Onomy Test Network #2 Coming Soon"></a>Onomy Test Network #2 Coming Soon</h3><p>We have been following the progress of the Onomy Protocol closely. Although up for a short time, we have contributed to the successful first Test Net and are geared up and ready to run a Validator for the 2nd Onomy Test Net. </p>]]></content>
     
@@ -246,13 +246,13 @@
     
     
     
-    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
-    
-    <category term="validation" scheme="https://cosmos.holdings/tags/validation/"/>
-    
     <category term="onomy" scheme="https://cosmos.holdings/tags/onomy/"/>
     
     <category term="testnet" scheme="https://cosmos.holdings/tags/testnet/"/>
+    
+    <category term="staking" scheme="https://cosmos.holdings/tags/staking/"/>
+    
+    <category term="validation" scheme="https://cosmos.holdings/tags/validation/"/>
     
   </entry>
   
