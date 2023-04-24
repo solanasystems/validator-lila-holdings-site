@@ -55,7 +55,7 @@ footer:
     icon: fa-twitter
     enable: false
   mail:
-    link: 'mailto:admin@onomy.holdings'
+    link: 'mailto:admin@cosmos.holdings'
     title: Contact Us
     icon: fa-envelope
     enable: true
