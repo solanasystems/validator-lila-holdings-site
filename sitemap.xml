@@ -142,20 +142,6 @@
   </url>
   
   <url>
-    <loc>https://cosmos.holdings/tags/launch/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://cosmos.holdings/tags/testnet/</loc>
-    <lastmod>2023-04-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://cosmos.holdings/tags/exchange/</loc>
     <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
@@ -164,6 +150,20 @@
   
   <url>
     <loc>https://cosmos.holdings/tags/staking/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/launch/</loc>
+    <lastmod>2023-04-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://cosmos.holdings/tags/testnet/</loc>
     <lastmod>2023-04-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
